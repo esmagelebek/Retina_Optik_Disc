@@ -15,7 +15,7 @@ Kütüphaneler: TensorFlow, Keras, OpenCV, NumPy, Matplotlib.
 
 📁 Klasör Yapısı
 
-data/: Eğitim ve test için kullanılan veri seti.
+Retina_Optic_Disc/: Eğitim ve test için kullanılan veri seti.
 
 notebook/: Model eğitim süreçlerini içeren Jupyter Notebook dosyaları.
 
