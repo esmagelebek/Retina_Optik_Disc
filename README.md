@@ -42,4 +42,4 @@ notebooks/ klasöründeki eğitim dosyasını çalıştırın.
 Modelin eğitim sürecindeki başarısı aşağıda yer almaktadır:
 
 
-Katılımcılar: Esma Betül KOCAAHMET & Esma GELEBEK (Model Architecture & Training)
+Katılımcılar: Esma Betül KOCAAHMET & Esma GELEBEK (Model Architecture & Training) & Funda BOZBURUN
