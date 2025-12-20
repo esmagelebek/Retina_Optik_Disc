@@ -17,7 +17,7 @@ Kütüphaneler: TensorFlow, Keras, OpenCV, NumPy, Matplotlib.
 
 data/: Eğitim ve test için kullanılan veri seti.
 
-notebooks/: Model eğitim süreçlerini içeren Jupyter Notebook dosyaları.
+notebook/: Model eğitim süreçlerini içeren Jupyter Notebook dosyaları.
 
 images/: Model performans grafikleri ve örnek çıktılar.
 
