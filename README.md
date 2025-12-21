@@ -1,45 +1,44 @@
-Healthy-Unhealthy Retina Optic Disc Image Recognition 👁️
+# Retina Health Classification via Optical Disc Analysis 👁️
 
-Bu proje, retina görüntülerinden optik disk analizi yaparak sağlıklı ve sağlıksız durumları sınıflandırmak amacıyla 
-geliştirilmiş bir derin öğrenme projesidir. ResNet50V2 mimarisi kullanılarak yüksek doğruluk oranları elde edilmiştir.
+[English](#english) | [Turkish](#turkish)
 
-📊 Proje Özeti
+---
 
-Model Mimari: ResNet50V2 (Transfer Learning)
+<a name="english"></a>
+## 🌐 English Description
 
-Başarı Oranı (Accuracy): %98.7
+### 📌 Overview
+This project focuses on the automated detection of retinal abnormalities by analyzing **Optical Disc** images. Using Deep Learning, the system classifies retina scans into two categories: **Healthy** and **Unhealthy**. 
 
-Veri Seti: Test, Train ve Validation olarak ayrılmış retina görüntüleri.
+### 📊 Technical Highlights
+| Metric | Specification |
+| :--- | :--- |
+| **Model Architecture** | ResNet50V2 (Transfer Learning) |
+| **Accuracy** | **98.7%** |
+| **Frameworks** | TensorFlow, Keras, OpenCV |
+| **Optimizer** | Adam |
 
-Kütüphaneler: TensorFlow, Keras, OpenCV, NumPy, Matplotlib.
+### 📂 Project Structure
+- `notebooks/`: Comprehensive Jupyter Notebooks for training and testing.
+- `images/`: Performance charts (Accuracy/Loss) and sample outputs.
+- `requirements.txt`: Necessary dependencies for reproducibility.
 
-📁 Klasör Yapısı
+---
 
-Retina_Optic_Disc/: Eğitim ve test için kullanılan veri seti.
+<a name="turkish"></a>
+## 🇹🇷 Türkçe Açıklama
 
-notebook/: Model eğitim süreçlerini içeren Jupyter Notebook dosyaları.
+### 📌 Proje Özeti
+Bu proje, retina görüntülerinden **Optik Disk** analizi yaparak göz sağlığı durumunu otomatik olarak sınıflandırmak amacıyla geliştirilmiştir. Derin Öğrenme yöntemleri kullanılarak, retina taramaları **"Sağlıklı"** ve **"Sağlıksız"** olarak sınıflandırılır. %98.7 başarı oranı ile tıbbi taramalar için güçlü bir karar destek mekanizması sunar.
 
-images/: Model performans grafikleri ve örnek çıktılar.
+### 📊 Teknik Detaylar
+* **Model:** ResNet50V2 mimarisi ile Transfer Learning (Görüntü İşleme).
+* **Veri Seti:** Train/Test/Validation olarak ayrılmış tıbbi görüntü seti.
+* **Teknolojiler:** Python, TensorFlow, Keras, OpenCV.
 
-requirements.txt: Projeyi çalıştırmak için gerekli kütüphaneler.
+---
 
-🚀 Nasıl Çalıştırılır?
-
-Repoyu klonlayın:
-
-git clone [https://github.com/esmagelebek/Retina_Optik_Disc.git](https://github.com/esmagelebek/Retina_Optik_Disc.git)
-
-
-Gerekli kütüphaneleri yükleyin:
-
-pip install -r requirements.txt
-
-
-notebooks/ klasöründeki eğitim dosyasını çalıştırın.
-
-📈 Model Performansı
-
-Modelin eğitim sürecindeki başarısı aşağıda yer almaktadır:
-
-
-Katılımcılar: Esma Betül KOCAAHMET & Esma GELEBEK (Model Architecture & Training) & Funda BOZBURUN
+## 👥 Contributors / Katkıda Bulunanlar
+- **Esma GELEBEK** - *Model Architecture & Development*
+- **Esma Betül KOCAAHMET**
+- **Funda BOZBURUN**
