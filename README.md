@@ -40,5 +40,5 @@ Bu proje, retina görüntülerinden **Optik Disk** analizi yaparak göz sağlı�
 
 ## 👥 Contributors / Katkıda Bulunanlar
 - **Esma GELEBEK** - *Model Architecture & Development*
-- **Esma Betül KOCAAHMET**
-- **Funda BOZBURUN**
+- **Esma Betül KOCAAHMET** - *Model Architecture & Development*
+- **Funda BOZBURUN** - *Model Architecture & Development*
